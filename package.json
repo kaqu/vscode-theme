@@ -1,0 +1,22 @@
+{
+    "name": "kaqu-theme",
+    "displayName": "KaQu-Theme",
+    "description": "Low contrast dark theme",
+    "version": "0.0.1",
+    "publisher": "kaqu",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KaQu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KaQu-color-theme.json"
+            }
+        ]
+    }
+}
