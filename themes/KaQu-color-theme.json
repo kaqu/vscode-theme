@@ -190,10 +190,10 @@
 		"list.invalidItemForeground": "#A6A6A6",
 		"list.inactiveSelectionBackground": "#4F666A60",
 		"list.inactiveSelectionForeground": "#A6A6A6",
-		"list.highlightForeground": "#2E616A",
+		"list.highlightForeground": "#4898A6",
 		"list.dropBackground": "#00000090",
-		"list.errorForeground": "#814041",
-		"list.warningForeground": "#7E612C",
+		"list.errorForeground": "#A65254",
+		"list.warningForeground": "#A6803A",
 
 		"foreground": "#A6A6A6",
 		"selection.background": "#2E616A60",
